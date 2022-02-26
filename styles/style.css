@@ -78,7 +78,7 @@ footer{
     cursor: pointer;
  }
  .top-image{
-    background-image: url(Circle-design.svg);
+    background-image: url(/images/circle-design.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
